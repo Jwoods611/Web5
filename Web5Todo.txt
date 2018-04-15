@@ -1,0 +1,4 @@
+-Add error handling via try/catch blocks where needed
+-Finish implementing red card system;
+	-Allow faculty to deny a red card, setting the redCard field in courses_accounts to 0
+	
