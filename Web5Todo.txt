@@ -3,4 +3,5 @@
 	-Allow faculty to deny a red card, setting the redCard field in courses_accounts to 0
 	
 -Add a generic college logo banner at the top of loginPage.jsp and homePage.jsp
+-Add documentation/comments where there aren't any
 	
