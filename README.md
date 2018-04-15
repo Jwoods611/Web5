@@ -1,0 +1,2 @@
+# Web5
+This is a mock college registration course, created as a group project for Software Engineering my junior year. This web app uses JSP, MySQL, HTML, and CSS to allow a user to add or remove courses from their schedule. As an admin, the user can add or remove courses or faculty from the database. Web5 also allows faculty users to view courses, upload final grades, and red card students into any of the courses they teach.
